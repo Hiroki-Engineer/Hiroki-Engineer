@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hiroki
 
-Welcome to my GitHub profile! I'm an MLOps and Data Engineer.
+Welcome to my GitHub profile! I'm a MLOps and Data Engineer.
 
 ## 🛠️ Language and Tools
 
